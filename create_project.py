@@ -15,7 +15,6 @@ def get_folder_path(project_folder):
 
     if os.name == "posix":
         return f"{PROJECT_PATH}/{project_folder}"
-    
     return f"{PROJECT_PATH}\\{project_folder}"
 
 
@@ -64,6 +63,7 @@ def connect_to_remote(project_name):
 
 
 def main():
+
     project_name = None
 
     if (len(sys.argv) == MAX_ARGS):
