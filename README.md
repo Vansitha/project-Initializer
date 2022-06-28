@@ -1,6 +1,6 @@
 # Automated Project Initalizer 
 
-Creates a local repository, set ups git, creates a repository on github, and connects to the local repository.
+It automates the mundane task of creating a directory for a new project, initializing git, creating a repo on GitHub and connecting both.
 
 ## Program Usage
 
