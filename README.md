@@ -1,6 +1,6 @@
 # Automated Project Initalizer 
 
-Automated the mundane task of creating a directory for a new project, initializing git, creating a repo on GitHub and connecting both.
+Automated the mundane task of creating a directory for a new project, initializing git, creating a repo on GitHub and connecting both to save time 😎
 
 ## Program Usage
 
