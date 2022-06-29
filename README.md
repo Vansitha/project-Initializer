@@ -1,4 +1,4 @@
-# Automated Project Initalizer 
+# Project Initalizer Automation Tool 
 
 Automated the mundane task of creating a directory for a new project, initializing git, creating a repo on GitHub and connecting both with an initial commit.😁 
 
