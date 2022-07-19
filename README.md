@@ -11,3 +11,6 @@ Automated the mundane task of creating a directory for a new project, initializi
 ## How to get a GitHub auth token
 
 go to settings > developer settings > personal access token > generate new token
+
+## Future extensions
+- Create directory structure and starter files based on the programming language.
