@@ -14,3 +14,5 @@ go to settings > developer settings > personal access token > generate new token
 
 ## Future extensions
 - Create directory structure and starter files based on the programming language.
+
+v1.0
